@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/login.jpg</file>
+        <file>res/messager.jpg</file>
+        <file>res/bluebackground.jpg</file>
+        <file>res/color.jpg</file>
+        <file>res/document.jpg</file>
+        <file>res/clear.png</file>
+        <file>res/clear.jpg</file>
+        <file>res/color2.jpg</file>
+        <file>res/document2.png</file>
+        <file>res/save.jpg</file>
+        <file>res/save2.jpg</file>
+        <file>res/color3.jpg</file>
+    </qresource>
+</RCC>
